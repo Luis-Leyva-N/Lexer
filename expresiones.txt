@@ -1,0 +1,12 @@
+b=7
+a = 32.4 *(-8.6 - b)/       6.1e-8
+d = a ^ b // Esto es un comentario
+
+
+cc7 = a + b7
+b_ = 32
+Abc = 23 ^ 2 - 3 * 54.85
+Num = 5.5-36.
+//Comentario De Prueba
+b / 2
+d = b ^ c /3 * -.4e-2 +5.5 -6 *(2+2) //final
